@@ -1,0 +1,9 @@
+git init
+# PizzaDelivery
+Algorithm for pizza delivery company "Clayton's Pizza"
+git commit -m "Clayton has the best Pizza Delivery business in the greater Huntsville area"
+git commit -m "Order pizza via phone or online"
+git commit -m "Status of order will be displayed on webpage"
+git clone <https://github.com/cahagan88/PizzaDelivery.git>
+git status
+git push -u origin
